@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adey
 ============================================================================================================================
 
-Front-end Developer
+Front-End Developer
 -------------------
 
-I am a front-end developer who loves React.
+I am a Front-End Developer who loves React.
 
 * ✉️  You can contact me at [astemteme@gmail.com](mailto:astemteme@gmail.com)
 * 🤝  I'm open to collaborating on Projects
